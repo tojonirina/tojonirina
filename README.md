@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tojonirina
-- 👀 I’m interested in web development, linux and new technology
+- 👀 I’m interested in web and mobile development, linux and new technology
 
 <!---
 tojonirina/tojonirina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
